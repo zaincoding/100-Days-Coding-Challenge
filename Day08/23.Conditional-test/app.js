@@ -1,0 +1,14 @@
+var car = "Subaru";
+var car1 = "BMW";
+console.log("True");
+console.log(car == "Subaru");
+console.log(car == "Subaru" && car1 == "BMW");
+console.log(10 > 8);
+console.log(10 > 5 || 10 > 15);
+console.log(10 > 8 && 10 < 15);
+console.log("\nFalse");
+console.log(car !== "Subaru");
+console.log(car == "Subaru" && car1 !== "BMW");
+console.log(10 < 8);
+console.log(10 > 15 || 10 > 10);
+console.log(10 > 8 && 10 > 15);
