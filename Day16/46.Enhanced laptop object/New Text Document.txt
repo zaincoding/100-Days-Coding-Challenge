@@ -1,0 +1,2 @@
+Define class named Laptop than use constructor method of 'laptop' class.it is called when a new instance of 'Laptop' is created.
+when we call describe() method on an object it tell us about that specific object.

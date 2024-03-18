@@ -1,0 +1,10 @@
+In this program we have a Laptop arry which contain three objects of different laptops.
+then use array destructuring to extract first and third elements of the laptop array and assign
+them to firstlatop and thirdlapton variables.then log to the console these variables.
+
+we use ,, double commas in the destructuring pattern[firstlaptop , , secondlaptop]
+which indicate empty space between these two commas which skip the second laptop.
+
+
+
+
