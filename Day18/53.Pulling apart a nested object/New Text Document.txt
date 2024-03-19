@@ -1,0 +1,1 @@
+We defined a listed object named 'programmer', which contain three properties 'language, tools, framework' and each property holds an array list of skills. We created another object named 'specificSkills'  to store three specific skills in this object.

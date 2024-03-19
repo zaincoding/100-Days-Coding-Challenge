@@ -1,0 +1,1 @@
+In this program we created a ‘Smartphone’ object which contains properties such as model, brand etc and assigned values to these properties to define its details. And then the 'SmartPhone' object log to the console to see its result.

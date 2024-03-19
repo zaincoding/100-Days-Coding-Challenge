@@ -1,0 +1,3 @@
+The first rectangle function calculate the area of the function using the formula length x width.
+
+The second rectangle function calculate the area of the function with the same formula but using arrow function syntax

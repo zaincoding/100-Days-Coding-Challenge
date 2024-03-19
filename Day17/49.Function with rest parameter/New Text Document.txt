@@ -1,0 +1,2 @@
+In this program the function named 'rest_parameter' takes the rest parameter args. It allow us to pass an indefinite number of arguments.
+The forEach method inside the function used to iterate over each hobby.

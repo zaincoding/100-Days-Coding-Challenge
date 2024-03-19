@@ -1,0 +1,6 @@
+We defined variables label1, label2, label3 to represent user choices, in the second step we created an object skills with flexible keys using computed property names[label1],[label2],label3].the expression inside the square brackets  are evaluated. 
+Resulting the values of these variables being used as the key. To access the 'skill' object we use dynamic key label1, label2, lable3
+
+
+
+
