@@ -1,0 +1,3 @@
+In  this program we have an array of mixed data type contain the data types of string,number,booleans, in the
+next step we used the filter method on array 'mix' to create a new array 'string' containing the element which
+satify the condition of call back function. the call back function(words => typeof words ==='string') checking if the type of each item in the array is equal to the string
