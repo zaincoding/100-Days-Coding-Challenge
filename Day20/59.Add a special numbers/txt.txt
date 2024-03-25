@@ -1,0 +1,9 @@
+Import 'inquirer' command is used to import the inquirer library,which allow us to prompt the user input in node.js
+invironment.Next we declare a variable 'adder' and assigned value 10 ,which will be added to the user input.
+
+the inquirer.prompt() function will display a 'message' to the user and be wait for it's response.the response will
+be stored in 'answer' object. later one we will extract the the user input from the answer object and will store 
+in a variable, then we will use a condtition to check the user input, if it is a valid value it
+will be added to the predefined variable and printed to output the result.
+
+

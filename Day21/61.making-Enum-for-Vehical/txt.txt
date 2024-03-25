@@ -1,0 +1,7 @@
+Enum: An enum is used to represent categories, options, states, or flags where a predefined set of related values are expected.
+in the 'VehicleCatogories' enum defining vehicle categories cars, trucks, and motorcycles.
+in the 'CarName' enum defining its models like Honda, Toyota, or Ford similarly in the 'TruckName' and 'Motorcycle' enum
+defining its models
+
+'Vehicles' constant represents the category of vehicles, which is set to 'Truck'.
+The 'Vehicles_model' constant representing a specific truck model, is set to 'Toyota_tundara' 

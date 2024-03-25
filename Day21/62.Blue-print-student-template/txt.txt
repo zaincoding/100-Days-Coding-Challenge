@@ -1,0 +1,2 @@
+The student interface defines the structure of the student object and specifies three properties 'name', 'age', and classes with their types string, number, and array.
+next, an object 'student;' is created based on the 'Student' interface, which contains values for the properties of 'name', 'age', and classes.

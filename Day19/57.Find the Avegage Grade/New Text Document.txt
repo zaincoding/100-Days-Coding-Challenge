@@ -1,4 +1,4 @@
 in this program we created an array grads with different numbers of five grads, to find out the average grads of 
 this number we divided the sum up of this number by 5 for summing up first initialize a variable txt than
 we loop through the grads array and use the plus equal += sign and divided / sign to sum up the ratio of all the list numbers
-and than assigned the final value to the 'txt' varuable.
+and than assigned the final value to the 'txt' variable.
