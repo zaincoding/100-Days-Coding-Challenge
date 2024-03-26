@@ -1,0 +1,4 @@
+The code imprt 'inquirer' library, which is used for prompting the user for input, the code use 'prompt.inquirer()' function to prompt the user to enter their input.
+the code extract user input from the answer object using destructuring assignment.the code define a function 'combineNumberString'
+that takes two parameters 'firstNumber' as a string and 'secondNumber' as a number.Inside the blocks the first number is converted to number using 'parseFloat' and
+then the two numbers add together.the combineNumberString is called to output the result.

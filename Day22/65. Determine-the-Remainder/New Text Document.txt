@@ -1,0 +1,3 @@
+it imports the 'inquirer' library, which is used for prompting the user for input. A constant variable number is defined and assigned a value of '7', the inquirer.prompt()
+is used to prompt the user to enter the input number to divide '7' by. it displays a message"Divide 7 by a number to produce a remainder." to the user and expects the user to enter a number.
+to extract the entered number from the user's response using a destructuring assignment.

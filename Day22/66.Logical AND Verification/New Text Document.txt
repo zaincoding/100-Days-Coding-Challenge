@@ -1,0 +1,4 @@
+This code is taking input from the user and using destructring assignment to extract
+the user input from the answer object and than if condition is used to check it's validation
+if valid it produce the result in true or false if the value is not valid it produce the
+error message.

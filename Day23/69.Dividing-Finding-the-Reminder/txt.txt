@@ -1,0 +1,6 @@
+"The function 'quotientRemainder' is defined with two parameters of type 'number'. It is expected to return an object with properties 'quotient' and 'remainder', both of type 'number'. Inside the function, the quotient is calculated by dividing the dividend by the divisor. The result is rounded to two decimal places using the Math.round function. The remainder is calculated using the modulus operator '%' to find the remainder when dividing the dividend by the divisor. The function returns an object containing the quotient and remainder.The function is called with dividend argument '8' and divisor argument '3', its result is stored in the 'result' variable. The 'quotient' and 'remainder' properties of the 'result' object are logged to the console."
+
+
+
+
+

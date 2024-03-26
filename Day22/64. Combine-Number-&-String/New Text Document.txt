@@ -1,0 +1,8 @@
+the code imports the 'inquirer' library, which is used for prompting the user for input, and the constant variable 'text' assigned the value 'age'
+
+the prompt.inquirer() is used to prompt the user to enter their age. it displays a message"Enter your name " and expects the user to enter a number.to extract
+
+the user input a destructuring method 'const {age} = answer' is used, the if statement checks whether the user input is valid. if it's valid the code defines a function named
+
+'combineNameAge()' takes the 'text' and 'age' parameters and returns a combined string.
+
