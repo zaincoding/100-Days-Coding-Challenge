@@ -1,0 +1,2 @@
+in this code whe declared a variable named 'personName' and assign the value we declared another variable 'personName1' and assign the value
+of the first variable 'personName' and store it's value 'Abaid' in 'personName1' then we updated the 'personName' variable with a new value 'Ahmed'

@@ -1,0 +1,10 @@
+var a = 5;
+var b = 10;
+var c;
+console.log("a = ", a);
+console.log("b = ", b + "\n");
+c = b;
+b = a;
+a = c;
+console.log("a = ", a);
+console.log("b = ", b);

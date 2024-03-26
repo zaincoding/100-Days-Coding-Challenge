@@ -1,0 +1,2 @@
+In this code we used the compound assignment operators to simplify arithmetic operations. we performed a seris of arithmetic
+operations such as compound addition(x+=4), compound subtraction(x-=4), compound multiplication(x*=2), compound division(x/=2).

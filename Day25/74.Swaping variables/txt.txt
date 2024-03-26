@@ -1,0 +1,3 @@
+the code is used to initialize two variable 'a' with value '5' and 'b' with value '10' to swape their values a third variable 'c' is declared 
+first the value of b which is '10' stored in 'c' variable then the value of 'a' variable which is '5' assigned to the 'b' variable then the
+the value of 'c' assigned to 'a' which make the swap possible.so the 'c' variable has a key role in swaping.
