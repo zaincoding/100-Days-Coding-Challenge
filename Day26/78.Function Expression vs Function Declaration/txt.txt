@@ -1,0 +1,5 @@
+In this code we used two functions one is 'Function Declaration' another 'Function Expression' the function declaration
+named 'funDec' takes one paramter 'square' it's type number and return the square.The interesting thing is that you can call it before the declaration with in the scope
+
+The function expression named 'Exp' also take one paramter 'cube' it's type number and return cube.but it is not accessible before the declaration if try to do it
+it will generate an error as you can see in the code. 

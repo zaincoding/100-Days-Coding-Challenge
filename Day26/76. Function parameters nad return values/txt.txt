@@ -1,0 +1,2 @@
+In this code we created a function that takes two parameters it's type number inside the function bloks we added the first parameter and second parameter using the
+plus + operator and return the result. And call the function passing two argument '5', '5'.
