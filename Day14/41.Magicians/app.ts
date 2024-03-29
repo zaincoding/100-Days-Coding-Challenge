@@ -3,10 +3,13 @@
 const magicians:string[] =['Ahmed','jawad','nooman'];
 
 // Define a function to return the magician names
-function  show_magician(magician:string[]){
-    return magician;
+function  show_magician(magicians:string[]){
+    //return magician;
+    for(const magician of magicians){
+         console.log(magician)
+    }
 }
 // Call the function to get the magician names
-const magician = show_magician(magicians)
+//const magician = show_magician(magicians)
 // Log the magician names.
-console.log(magician)
+          show_magician(magicians)

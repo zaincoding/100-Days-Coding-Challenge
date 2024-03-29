@@ -1,0 +1,2 @@
+In this code we created an object named 'myObject' with properties 'Brand','model','ram','screen','year' and it's types then we created a function to pass the object
+as an argument inside the function we created 'for ..in' loop to log all the properties of the object console.

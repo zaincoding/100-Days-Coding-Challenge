@@ -1,0 +1,2 @@
+In this code we created an object named 'SmartPhone' with properties 'Brand','model','ram','screen','year' to access the the properties
+we use dot notation and loge to the console.

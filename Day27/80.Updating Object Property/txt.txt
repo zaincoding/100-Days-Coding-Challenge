@@ -1,0 +1,3 @@
+In this code we created an object named 'myObject' with properties 'Brand','model','ram','screen','year' and it's types to update the year property we used the
+command 'myObject.year = 2011', to access the properties we use the dot notation and log to the console. where you can see that the year is updated to '2011'. whereas 
+before updation it's value was '2024'.
