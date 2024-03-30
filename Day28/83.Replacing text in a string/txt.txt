@@ -1,0 +1,5 @@
+In this code we defined two variables with types string and both have string value text.we print the original string of first variable,
+then we print the string to replace 'Hello' with 'Hi' by using the 'text.replace("Hello","Hi")' replace() method.
+
+In the second variable first we print the original string and then we print the string to replace 'white' with 'brown' using /white/g will replace 
+all occurances of 'white' with 'brown' in the input string. But it won't modifiy the original string. 

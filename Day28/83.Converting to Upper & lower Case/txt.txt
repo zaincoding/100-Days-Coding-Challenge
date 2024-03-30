@@ -1,0 +1,1 @@
+In this code we define a variable 'caseUL' its type string assigned the value text'Good Morning' next we will write the expression 'console.log(caseUL.toUpperCase())' in which 'toUpperCase' method converts all the characters in the string to upper case. and in the next expression console.log(caseUL.toLowerCase()); the method'toLowerCase' will turn all the characters to lowercase.
