@@ -1,0 +1,3 @@
+In this code, we define a variable 'subStr' as a type string and next, we create a function that takes one parameter as 'substr'.This function is designed to find the position of the first occurrence of the subString 'code' within the input string 'subStr'.
+
+'let str = substr.indexOf('code')' this line finds the position of the first occurrence of the substring 'code' within the 'substr; string and stores this position in the variable 'str'. If the 'code' is not found it will return -1.

@@ -1,0 +1,7 @@
+In this code, we define a variable 'text' as its type string and create a function to check whether the substring is present in the input string.
+
+
+
+'let ch1 = check.includes("javascript")'.This line uses the 'includes' method on the 'check' string to find whether the substring 'javascript' is present within the string. If found it will return true if not found it will return false
+
+the result of true or false will be stored in 'ch1' variable. In the end, we will get the result to call the function with the 'text' variable as an argument.

@@ -1,0 +1,5 @@
+In this code we declare a variable named 'text' its type string and initialize with the value"I would like to have a cup of tea" and we define another constant variable text1, assign the extracted value portation of the 'text' string by calling the '.substring()' method with two arguments.
+
+'0' is the starting index and '12' is the ending index of the substring it means that the extraction should start from the character 0 and end before the character 12.
+
+At the end, you can see the result of both the strings. The original string 'text' and the modified string 'text1' 
