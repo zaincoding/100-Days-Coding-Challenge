@@ -1,0 +1,5 @@
+In this code we defined an array called 'fruits' containing strings 'apple','mango','orange','banana' next we defined
+a variable called 'replace' assinged to it a string value 'Pineapple'.
+fruits[fruits.indexOf('orange')] = replace, in this line we use the indexOf() method to return the index value of
+'orange' then use this index to replace the the element at that position with the value stored in 'replae' variable 'Pineapple'
+ the output result of the modified 'fruits' array is ['apple','mango','orange','banana',Pineapple']

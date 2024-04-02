@@ -1,0 +1,1 @@
+In this code we declare and initialize a function named 'array' with strings values 'Apple', 'Mango','Banana' then we add a new string value 'pineapple' to the end of the string by using the push('pineapple') method. As we added an element 'Pineapple' at the end of the array, finally its output is ['Apple','Mango','Banana','Pineapple'];

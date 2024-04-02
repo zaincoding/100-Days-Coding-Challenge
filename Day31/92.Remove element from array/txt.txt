@@ -1,0 +1,2 @@
+In this code, we defined an array named 'remove' having four string elements 'Appple','Mango','Banana','Pineapple' in the next line 'remove.pop()  in which 'remove' is the already defined array and pop() is the method that is used to delete the last element from the 'remove' array.
+finally, as the last element is removed from the array the output is ['Apple','Mango','Banana']
