@@ -1,0 +1,3 @@
+Using reduce()method
+In this code, we designed an array called 'numbers' containing number elements, and then we used the reduce() method that takes 
+the callback function as an argument. the callback function takes two parameters (a,c) and 0 the 'a'(accumulate the result) and the 'c'(processed the current element in the array). The second argument is the' a''s initial value, 0. Inside the callback function, the c(current value) is added to the 'a'(accumulator) and returns the result.

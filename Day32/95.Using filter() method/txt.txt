@@ -1,0 +1,2 @@
+Using filter() method:
+In this code, we define an array named 'array' containing a list of numbers next we define a function named 'filterNumber' that takes an array of numbers as its parameter. Inside the 'filterNumber' function we use the filter() method on the input array it creates a new array containing numbers that satisfy the 'gtNum > 10' condition and returns the result. finally, we call the function with array as an argument and print the result.

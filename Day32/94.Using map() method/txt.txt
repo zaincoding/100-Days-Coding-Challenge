@@ -1,0 +1,3 @@
+In this code, we defined an array of strings called 'items' and then used the map() function to create a new array named 'itemsLength' where each element represents the length of the corresponding string in the items array.
+
+finally the new array 'itemsLength' will display the length of each element of the array such as [5,6,9,6]
