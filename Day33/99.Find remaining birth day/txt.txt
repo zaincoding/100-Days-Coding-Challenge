@@ -1,0 +1,3 @@
+create a date object 'currentDate' that represents the current date then create an object 'birthDate' to represent the
+given date, next, get the birthday year from the 'currentDate' and assign it to 'theYear' and then get the given value of month and day from 'birthDate by using 'getmonth()' and 'getDay() assign all these values including 'thYear' back to the 'birthday' variable. if the 'birthday' is less or equal to the current date, print the next year's date of birth. it means that
+if the date of birth has already occurred, the statement inside the if condition will be printed in which we added a plus 1 value to 'theyear' to display the date of birth of the next year.
