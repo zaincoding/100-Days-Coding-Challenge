@@ -1,0 +1,1 @@
+In this code, a variable is defined named 'squareRoot' and assigned the value square root value of '144' which is calculated by using the 'Math.sqrt()' function. Output the result to log to the console.

@@ -1,0 +1,1 @@
+In this code, we declare a const variable and assign the value of 'Math.random()*10'. Math.random function generates random decimal numbers b/w 0(inclusive) and 1(exclusive) the '*10' Multiply the random decimal number by 10 to get the random value b/w 0(inclusive) and 10(exclusive).Math.ceil function is used to round up 'randomNumber' value.
