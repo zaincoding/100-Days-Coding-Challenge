@@ -1,0 +1,3 @@
+In this code, we declared a variable named 'dice' assigned the value of 'Math.random()' function multiplying by '6'
+
+to stretch its range and add '+1' to start its range from '1' and use 'Math.floor()' to round up its value. then we use the if condition if the 'dice' value is greater than '5' run the if condition, otherwise run the else condition.

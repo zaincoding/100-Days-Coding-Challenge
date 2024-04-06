@@ -1,0 +1,1 @@
+In this code, we declared a variable random and assigned the value of 'Math.random()' function in the next line we declare another variable named 'boolean' and assigned the random value true or false by using the comparison operator to assign true if the value is greater than '0.5' if not assign false. Finally, Output the 'boolean' variable to the console.
