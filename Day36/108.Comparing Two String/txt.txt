@@ -1,0 +1,2 @@
+In this code we defined a function called 'compareString' with two parameters its type string inside the function
+we comapre and convert these two variable to lowercase furthermore we call the function passing the required two argument.
