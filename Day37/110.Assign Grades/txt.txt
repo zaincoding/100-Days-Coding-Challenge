@@ -1,0 +1,2 @@
+In this code we declare a variable called 'mark' and assign the integer value '440' Furthermore we created the grading system
+using the 'if else' chain to determine the grade of 'Mark'. The if condition checks is the value is 'greater or equal to 595 and equal or smaller than 679', if this condition checks the second condition 'else if' likewise the rest of the conditions. Hence our condition is getting true at 3rd step where the value of 'makr' falls between the range of 425 and 509.

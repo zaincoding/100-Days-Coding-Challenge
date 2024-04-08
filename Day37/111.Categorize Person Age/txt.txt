@@ -1,0 +1,5 @@
+In this code we defined an array of list called "ages" it's type number moreover defined a function called 'findAge'
+with one parameter 'age' that takes an age as input and print a message base on age category.inside the function we used the if and else if condition to the check the different category
+of life stage.furthere more in the beginning the if condition is checking that if the age is 13 print a message
+and similary checking for other categoris of ages array.finally the 'forEach' method is used to apply 'findage' function
+to each element in the array list.
