@@ -1,0 +1,2 @@
+In this code, we created a Map called 'StudentInfo' to store key-vlaue pairs, both the keys-values are strings then we used the 'set' method to add key-value pairs to the map, key(Name, ID) and value(Ahmed,Ahmed_123@gmail.om) using the
+forEach()method to iterate over each key-value in the map. The call-back function passed to 'forEach' to take two parameters as key and value that represent each entry of key and value. Finally, inside the call-back function, we log each key-pair to the console.
