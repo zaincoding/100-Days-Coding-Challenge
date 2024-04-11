@@ -1,0 +1,1 @@
+In this code, we define an array of list called 'favouriteMovies' and initialize it with movie title then use the 'for of' loop to iterate each movie title in the array 'favouriteMovies', for each iteration the for of loop will assign the string value of 'favouriteMoves' to the 'favouriteMovie'.Finally inside the 'for of' loop each movie title will be logged to the console.

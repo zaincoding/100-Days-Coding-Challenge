@@ -1,0 +1,2 @@
+we use the basic for loop in this code where 'counter' is initialized as '1' and then we use the condition that shows that the loop should continue as long as the counter is less or equal to 10. the 'counter++' is used to increment
+the 'counter' by 1 in each iteration. Finally, the value will be printed on each iteration.

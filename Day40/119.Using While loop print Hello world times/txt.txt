@@ -1,0 +1,1 @@
+In this code we initialize the count variable with the value '0' then use the 'count' variable in the while loop to count until the condition (count<5) is true. so it will continue printing the string value inside the block "Hello world" until the condition becomes true. The count++ will be increment by 1 in each iteration. Finally, the value will be printed on each iteration.
