@@ -1,0 +1,5 @@
+In this code, we defined a traditional function called 'trdFunction' that takes two parameters such as 'p1' and 'p2' both of type 'number' furthermore
+inside the p1*p2 are multiplied and its result is returned. Finally, call the function 'trFunction' and output the result to the console.
+
+The second function is an arrow function called 'arrowFunction that also takes two parameters as 'p1' and 'p2' both of type 'number' furthermore
+inside the function p1, p2 are multiplied and its result is returned, Finally, the result is logged to the console.

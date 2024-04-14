@@ -1,0 +1,9 @@
+Here we use 'this' in the Traditional Function & Arrow Function to understand its different behavior in both functions,
+
+
+
+we call the 'trFunction with 'call({Function:'Traditional'}) as 'this' is used inside the 'trFunction' which refers to the context object '({Function: 'Traditional})' as 'call' explicitly sets the value of 'this'.
+
+
+
+when trying to call 'arrowFun' with 'call({'Function: 'Arrow'})','this' inside 'arrowFun' in this case 'arrowFun' is defined in the global scope, so this inside it refers to the global object or undefined in strict mode.

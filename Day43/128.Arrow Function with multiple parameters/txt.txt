@@ -1,0 +1,1 @@
+In this code, we defined an arrow function called 'arrowFun' that takes three parameters such as(p1,p2,p3)with type number inside the function 'p1*p2p*p3' are multiplied and its result is returned. Finally, we call the function 'arrowFun' with the arguments then the returned result is logged to the console. 

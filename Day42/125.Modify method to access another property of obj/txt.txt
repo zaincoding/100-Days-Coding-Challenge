@@ -1,0 +1,3 @@
+In this code, we defined an object called 'personObject' with 'name', 'age' properties, and the 'objProp' method.
+we assigned string value 'Sammad' to the name property and assigned number value 30 to the age property of the 'personObject'
+the 'objPop' is used as a function inside the 'personObject' to return the 'name' and 'age' properties of the object. finally, we called the function 'objProp' of the 'personObject' to print the name and age property.
