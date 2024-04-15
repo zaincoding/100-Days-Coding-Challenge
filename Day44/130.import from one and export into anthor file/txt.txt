@@ -1,0 +1,10 @@
+Export function:
+
+In this code named 'exfile1' is a function the keyword 'export' makes it available to import in other files. inside the function a message 'Hello this is file1' is logged to the console. when the exfile1() function is called.
+
+
+
+Import Function:
+
+In this code 'import {exfile1} from "./file1.js"' import the function 'exfile1' from the 'file1.js' module. the 'from "./file1.js" part indicates the file path of the module.the exfile1() call the imported 'exfile1' function to execute.
+

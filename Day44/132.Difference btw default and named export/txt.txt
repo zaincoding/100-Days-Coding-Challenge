@@ -1,0 +1,69 @@
+Export:
+
+
+
+export class exfile1{...}
+
+In this code, a class named 'exfile1' exports it directly and it has a constructor with an instance name and method sayHello().
+
+to greet 'Hello, with the name'.
+
+
+
+export default class exfile2{...}
+
+in this code class named 'exfile2' export it with default export and it has a constructor with instance name and method sayWelcome().
+
+to greet 'Welcome, with name'
+
+
+
+constructor(private name:string){...}
+
+this is the constructor used in both classes. it takes 'name' as a parameter and initializes private property with 'name' of type string the 'private' keyword ensure that the name can be only accessible within the class. 
+
+
+
+sayHello(){...} and sayWelcome(){...}
+
+These greeting methods are defined within their respective classes to print the greeting message. template literal is used in both methods to print the greeting message including the name provided during instance creation.
+
+
+
+
+
+
+
+Import:
+
+
+
+import {exfile1} from "./export"
+
+this line of code imports the 'exfile1' class from the 'export' model. 'from "./export" ' specify the file path to the module.
+
+const obj = new exfile1('Ahmed') ' this code of line creates an instance of the 'exfile1' class with the name 'Ahmed' the 'new'
+
+keyword instantiate a new object based on the 'exfile1' class, and the constructor of the 'exfile1' is called with the
+
+argument 'Ahmed'
+
+obj.sayHello(){...}
+
+this line code calls the 'sayHello' method of 'exfile' instance 'obj'. sayHello() method logs a greeting message to the
+
+console and the name provided for the instance creation.
+
+
+
+Import defalut class:
+
+import exfile2 from "./export".
+
+in this line of code import the 'exfile2' class from the 'export' model. and similarly specify the file bath, create an instance and call the method, etc.
+
+
+
+Difference b/w class and default class
+
+the main difference b/w them is that we use curly braces{classname} to destructure the class and in default, we don't need the curly braces to destructure the class we use the class without curly braces to access the class.

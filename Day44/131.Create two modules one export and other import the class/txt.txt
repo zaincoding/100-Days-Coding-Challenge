@@ -1,0 +1,12 @@
+Export class:
+In this code, a class named 'class1' and the 'export' keyword make the class available for import in other files.
+'consturctor(private name:string){}' it is the constructor of the 'class1' class, it takes 'name' as a parameter of type 'string' and initializes private porperty'name' with it.
+The private keyword ensures that the 'name' can only be accessible within the class.
+'Greet()' method is defined within the class named 'class1' class. inside the 'Greets' body, the greeting message
+is logged to the console, using the 'name' property of the class instance.
+
+Import class:
+'import {class } from "./class"' it's import the 'class1' class from the 'class1' module.
+'from "./class"' specifies the path to the module file 'class1'.
+'const obj = new class("Ahmed")' create a new instance of the 'class1' class with the name "Ahmed".
+'Obj.greet()' method call the 'class1' instance 'obj'
