@@ -1,0 +1,5 @@
+'anArray' of number is defined and then called the '.filter()' method on 'anArry' to filter the numbers which pass the
+test implemented by callback function 'number', inside the filter() method an arrow function 'number => number > 4' which
+is called also called call back function is provided. it tests the provided array number if it is greater than 4 it
+returns 'true' and includes the number in the filter array, if it is less than 4 it returns false indicating it is excluded from
+the array. the filter array will be assigned to the 'filterNumber' and finally logged to the console.

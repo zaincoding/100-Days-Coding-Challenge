@@ -1,0 +1,8 @@
+In this code, we defined an object called 'myObject' with property(name, age, email, and its type) assigned value string and number
+
+we converted the javascript object to the JSON string using 'JSON.stringify(myobject) method and log the result to the console.
+
+finally, as the second parameter represents a replacer function we are not using a replacer function so pass 'null', and for indentation, 
+
+we use the third parameter '4' which specifies the number of spaces to use for indentation.
+

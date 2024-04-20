@@ -1,0 +1,23 @@
+In this code, we use three reserved words(class, function, if) and create a valid use case for each.
+
+ using class:
+
+we defined the class name 'personName' with a constructor and a person() method to create an instance of the class
+
+and call the person() method to retrieve the person name. 
+
+
+
+using function:
+
+We defined a function called 'person' that takes the 'firstName' parameter and returns the first name.
+
+
+
+Using if:
+
+if is used to execute the block code when a specific condition is true.in this code, we defined
+
+two variables a and b, and assigned their values. then using the if condition that if a is greater than b
+
+execute the if block of code, otherwise else so it will execute the if block as a is greater than b.

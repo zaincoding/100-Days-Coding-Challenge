@@ -1,0 +1,5 @@
+In this code we create the promise 'deayTime' using the Promise constructor, 'new Promise(...) is the promise constructor to create a new object.
+it type 'promise<string> which resolves with the string value. the promise constructor takes the executor function as an argument,'((resolve))=>{...}) is an executor function, the constructor immediately invokes this function it receives a parameter 'resolve'. The executor function 'setTimeout()' is used to delay 3000 milliseconds(3second) after the delay, the executor function is called to fulfill the promise and 'resolve' the string 'Hello, World'.
+
+A promise 'delayTime' resolves with the string value 'Hello, World' after the delay of 3sec. using the '.then()' method to handle the resolved value of the promise. A call back function(message) =>{} with parameter 'message' is
+passed to the '.then()'. log the resolved message to the console when the promise is fulfilled.

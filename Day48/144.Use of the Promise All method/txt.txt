@@ -1,0 +1,18 @@
+In this code, we create the promise array 'promises' contains three promises the two promises are resolved immediately 
+
+with string values 'promise 1 resolve' and 'promise 2 resolve' using the 'promise.resolve' method, the third 'new Promise()' create a new promise and 'setTimeout()' delays the promise to resolve with the string value 'Hello, World' after 3 seconds. the 'promise.all(promises) method calls that create a new promise and resolve when all promises in the 'promises' have been resolved or rejected if any of the promises is rejected.
+
+
+
+
+
+'promise.all(),if all the promises in the '(promises)'array resolve successfully
+
+the callback function passed to the .then()method with an array of resolved value('output'). it logs 'All promises resolved' followed by the array resolved value('output).
+
+
+
+'promise.all(),if any of the promises in the '(promises)' array is rejected
+
+the callback function passed to the .catch() is invoked with an error. It logs 'At least one promise rejected' followed by the error to the console.
+

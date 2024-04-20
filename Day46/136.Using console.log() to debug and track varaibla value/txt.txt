@@ -1,0 +1,3 @@
+In this code, we use the for loop which allows code to be executed repeatedly due to the specific condition. so we initialize 'i' to '0' and continue as long as 'i' is less than 10, and i++ and increment i by 1 in each iteration
+
+inside the for loop the 'variable' calculates the value of the expression (i+1)*2. This means adding 1 to the current i value and multiplying by 2. Finally, we log the result to the console to track each value iteration.

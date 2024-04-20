@@ -1,0 +1,17 @@
+In this code, we defined a promise 'callBackFun' with its parameters 'resolve' and 'reject' functions. Inside the the promise constructor we defined 'randomNumber' to generate the random number from 1 to 6.
+
+
+
+using the if condition if the random number is greater than 6 it resolves the promise after 2 seconds.
+
+if the random number is not greater than 6 it will generate an error.
+
+
+
+to handle the resolve and reject part of the promise.
+
+.then()' method is chained to the promise to handle the resolved state of the promise. finally, log the resolved promise to the console.
+
+
+
+.catch()method is chained to the promise to handle the reject state of the promise. finally, log the rejected promise to the console.

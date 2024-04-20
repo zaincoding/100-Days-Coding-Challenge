@@ -1,0 +1,1 @@
+in this code, we defined a variable called 'personName' and assigned a JSON string containing a key-value pair where the key is 'name' and the value is 'sami', then using the JSON.pars(personName) method to convert the JSON string to a javascript object, then assign it to the constant variable 'javaScriptObject', and finally log the result of the converted object to the console.

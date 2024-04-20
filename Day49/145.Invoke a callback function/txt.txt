@@ -1,0 +1,19 @@
+In this code, we defined the 'callbackFun' function and three parameters: callback(a function), name, and lastname.
+
+Inside 'callBackFun' the 'callback' function is invoked with the parameter 'name' and 'lastName'.
+
+
+
+we defined another callback function 'greet' that takes two parameters 'name' and 'lastName' inside the function
+
+a greeting message is logged to the console using template literal.
+
+
+
+finally the 'callBackFun' is called with the callback function 'greet' and passed the string argument 'Bilal', 'khan'
+
+
+
+These patterns demonstrate the flexibility of using a callback function, which allows the user to pass different function
+
+to the 'callBackFun'.

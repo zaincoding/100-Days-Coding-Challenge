@@ -1,0 +1,4 @@
+In this program we used the reserved as variable using reserved word 'class' as variabel it generate an error that
+'variable variable declaration is not allowed at this location' using 'function' resere word as a variable name
+it generate an eror that 'function is not allowed as a variable declaration name. and using if reserve word as variable
+name it also generate erro so if we try to use any reserve word as a variable it will generate similar errors.

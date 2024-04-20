@@ -1,0 +1,9 @@
+In this code we create the promise 'deayTime' using the Promise constructor, 'new Promise(...) is the promise constructor to create a new object.
+it type 'promise<string> which resolves with the string value. the promise constructor takes the executor function as its argument,'((resolve,reject))=>{...}) is an executor function, this function is immediately invoked by the constructor it receives two parameters 'resolve' and 'reject'. Inside the executor function 'setTimeout()' is used to delay 3000 milliseconds(3second)
+after the delay a random number is generated('randomNumber') if it is less than 3 the promise is resolved with the string value 'Hellow, World', otherwise the promise is rejected with an 'Error' object containing the message 'An error occurred'.
+
+A promise 'delayTime' resolves with the string value 'Hello, World' after the delay of 3sec. Using '.then()' method to handle the resolved value of the promise. A call back function(message) =>{} with parameter 'message' is
+passed to the '.then()'. log the resolved message to the console when the promise is fulfilled.
+
+A promise 'delayTime' rejects with an error after the delay of 3sec.
+Use the '.catch()' method to handle any promise error. A callback function passed to '.catch()'. log the rejected error message to the console when the promise is rejected.

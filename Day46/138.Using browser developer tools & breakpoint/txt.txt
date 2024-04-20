@@ -1,0 +1,7 @@
+In this code we divided typescript code in three parts the first one is 'Before break point' 2nd 'Breakpoint set here'
+
+and the 3rd 'At the breakpoint conclusion' and then we include the file in HTML using '<Script></script> tags
+
+Finally, we click on 'go live' in our vs code editor to browse the code and then click on three dots on the right side of the browser to find the 'developer tools' or 'ctrl + Shift + i' then console the code it printed all the code and then we set the breakpoint at number '2' code of the line and console the code to output the result. it printed the first line code 
+
+it means that by using the developer tools, we can console the code at different breakpoints to find the error easily.

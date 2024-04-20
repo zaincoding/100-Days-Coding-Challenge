@@ -1,0 +1,3 @@
+In this code we defined an object called 'myObject' with property(name,age,email and its type) assigned value string and number
+finally we log the javascript object to the console and next we converted the javascript object to the 
+json string using 'JSON.stringify(myobject) method and log the result to the console.
