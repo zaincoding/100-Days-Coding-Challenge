@@ -1,0 +1,19 @@
+This code contains two parts of the operation the first part contains a 'synchronous' operation and the second part contains an 'asynchronous' operation.
+
+
+
+synchronous operation:
+
+in this part, the code starts by logging the string 'start' to the console.
+
+then enter the synchronous loop that starts from 0 to 9999 it blocks the execution of the next statement until it completes the iteration process from 0 to 9999. After the loop execution, it logs the 'end\n' to indicate that the
+
+synchronous operation is complete.
+
+
+
+asynchronous operation:
+
+in this part of the code, the string logged 'start' to the console.
+
+then it schedules the asynchronous operation using 'setTimeout', to execute it's callback function after a minimum delay of 0 milliseconds. after scheduling it will execute the 'end' to the console.

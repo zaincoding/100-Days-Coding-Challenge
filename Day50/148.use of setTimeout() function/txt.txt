@@ -1,0 +1,3 @@
+In this code, we defined an arrow function called 'myFunction' inside the function 'setTimeout' an asynchronous operation is scheduled. it has a callback function that logs the message 'Hello, World'. The 'setTimeout' function
+
+scheduled the callback function to execute after the delay of 2 seconds. Despite the delay 'setTimeout' is asynchronous it won't block the execution of other code.

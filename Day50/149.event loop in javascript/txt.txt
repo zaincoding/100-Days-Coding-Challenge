@@ -1,0 +1,1 @@
+In this code we defined a function 'myFunction' inside the function the '1st string execution' is logged to the console. then the asynchronous operation 'setTimeout' is scheduled with it's callback function that logs the '2nd string execution' to the console, after the '3rd string execution' is logged.

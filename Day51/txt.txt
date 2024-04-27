@@ -1,0 +1,91 @@
+Geeks For Geeks.
+
+
+
+https://www.geeksforgeeks.org/programming-tips-for-beginners/
+
+
+
+To 10 Programming Steps for Beginners:
+
+
+
+1. Apply theoretical knowledge practically.
+
+so the first tip is to use theoretical knowledge practically rather than just consuming theoretical knowledge.
+
+
+
+This step is about syntax habits and typing speed.
+
+.help in problem-solving skills.
+
+.help in getting logic quickly in solving problems.
+
+Knowledgeable about common programming problems.
+
+
+
+2. Don't Leave a Gap in Your Learning:
+
+
+
+so the second step is about consistency a programming learner should have consistency in their learning habits
+
+
+
+
+
+3. Don't overanalyze the concept:
+
+The third step is time management, focusing on task completion rather than wasting time on overanalysis concepts.
+
+
+
+4. Read The Error Message Carefully
+
+the 4th tip is to read the error carefully and try to understand the error message first by yourself, before getting help from your senior.
+
+
+
+5. Solve the MCQs Question in programming:
+
+
+
+learning programming for the first time solving MCQs helps get a good command of syntax and understand some important rules in programming.
+
+MCQs are available on the Internet such as W3Schools and other platforms.
+
+
+
+6. Code with Hands:
+
+as we are used to coding on a computer it is important to code by hand it helps you to process things faster for example if
+
+an interviewer asks you to write down the code on hand then you can do it faster than the one who just used to code on a computer.
+
+
+
+7. Read Other People's Code:
+
+reading other people's code is important it will help you some time to solve the problem that's looking tough.
+
+
+
+8. Enhance Problem-Solving Skills:
+
+Problem-solving skills are one of the most important skills for web developers, professional developers also face problems
+
+but they work constantly to enhance their problem-solving and don't let it in the middle, so errors are common.
+
+
+
+9. Divide Things into Smaller parts:
+
+As a beginner, you should figure out how to divide the time in a correct and completely on time. Starting with basic and going up level by level will help you to complete the task correctly and timely.
+
+
+
+10. Find a Perfect Mentor:
+
+As a beginner, it is important that you should be guided by a mentor from the beginning, who has good understanding and knowledge.He/She guides you in the right direction and explains problems with its solution.
