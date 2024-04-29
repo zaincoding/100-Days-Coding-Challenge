@@ -1,0 +1,158 @@
+The WebSite Url
+
+https://javascript.info/intro
+
+
+
+Introduction to javascript:
+
+
+
+What is javascript?
+
+Javascript was initially created to 'make web pages alive'
+
+
+
+the programs in a javascript language called scripts. javascript code doesn't need to compile it can be written
+
+in HTML code and automatically run as the page loaded.
+
+
+
+Why is it called JavaScript?
+
+When JavaScript was initially created it was called "LiveScript" but Java was very popular then.
+
+it was decided that positioning it with 'java as its younger brother' would help to gain popularity.
+
+but with time javascript evolved and became a fully independent language with its specification
+
+called "ECMAScript" and it has no relation to Java.
+
+
+
+Now Javascript executes on browsers, servers, and on any other devices that have a special program called 'the javaScript Engine'.
+
+
+
+the browser has an embedded system sometimes called javascript "javascript virtual machine"
+
+
+
+Different engines have different "Codenames".For example.
+
+
+
+* V8 - in Chrome, Opera, and Edge.
+
+* SpiderMonkey - in Firefox.
+
+
+
+There are some other codenames like "Chakra" for IE, "JavaScriptCore", "Nitro" and "squirrelFish" for Safari, etc.
+
+
+
+How Engine Work:
+
+Basics about engine work.
+
+
+
+1. the engine(embeded if it is a browser)reads("parses")Scripts.
+
+2. Then it converts("compiles") the script to machine code.
+
+3. Add then the machine code runs, pretty fast.
+
+
+
+
+
+What can in-browser JavaScript do?
+
+
+
+JavaScript does anything related to webpage manipulation, user interaction, and web server.
+
+
+
+1. it can add a new HTML page, change the existing content, and modify the style.
+
+2. react to a user action, run on mouse click, pointer movement, and key press.
+
+3. send a request to the remote server, download and upload files.
+
+4. get and set cookies.
+
+5. remember client-side data
+
+
+
+
+
+
+
+What can't in-browser JavaScript do?
+
+in the browser, its abilities are limited to protect user safety. The purpose is to prevent evil web pages from
+
+accessing user data.
+
+
+
+Examples of such restrictions:
+
+it may not read/write arbitrary files on a hard disk, copy or execute. and no direct access to the OS function.
+
+
+
+modern browsers provide limited access but it depends on the user doing certain actions. like 'dropping file' in the browser window and or selecting
+
+via user <input> tag.
+
+
+
+There are also certain ways to interact with, the camera, microphone, and other devices but it depends on user permission
+
+
+
+for user safety, it prevents a webpage with one url example http://oneurl.com opened by the user to access another URL http://urltwo.com to steal 
+
+user data.
+
+
+
+javascript can easily communicate with the server but its ability to receive data from other sites/domains is crippled for user safety.
+
+
+
+
+
+Uniques of javascript
+
+
+
+*integrate with HTML/CSS
+
+*Supported by all major browsers and enabled by default
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
