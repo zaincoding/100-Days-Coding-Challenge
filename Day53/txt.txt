@@ -1,0 +1,37 @@
+Using the below tutorial link, I learn how to use chrome deve tool elements.
+https://www.youtube.com/watch?v=t1c5tNPpXjs&t=23s
+
+using this webpage, I modified an image style by using the inspect tool.
+https://www.daraz.pk/products/mashmallow-printed-tracksuit-cotton-o-neck-half-sleeves-o-neck-t-shirt-for-men-boys-i485337194-s2279672226.html?spm=a2a0e.searchlistcategory.sku.37.182f6638V26VH3&search=1
+
+1
+Style CSS attribute values that ,I changed
+.image{
+ max-height:50%;
+ vertical-align: super;
+}
+
+.pd-product-title{
+
+color:#11d18c;
+font-size:16px;
+}
+
+}
+.pdp-price_size_xl {
+    font-size: 40px;
+}
+
+}
+.pdp-price_size_xl {
+    font-size: 40px;
+}
+
+pdp-product-price__discount {
+    font-size: 30px;
+}
+
+}
+.pdp-price_size_xl {
+    font-size: 40px;
+}
