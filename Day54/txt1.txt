@@ -1,4 +1,24 @@
-https://javascript.info/hello-world
+1.https://javascript.info/hello-world
 Task 1 Show an alert
 Task 2 Show an alert with an external script
+
+
+
+2.https://javascript.info/variables
+Working with variable:
+Declare two variables: admin and name.
+Assign the value "John" to name.
+Copy the value from name to admin.
+Show the value of admin using alert (must output “John”).
+
+Giving the right name:
+1.Create a variable with the name of our planet. How would you name such a variable?
+2.Create a variable to store the name of a current visitor to a website. How would you name that variable?
+
+Uppercase const?
+Upper case is used for constant when the value is already know or hardcoded.or the vlaue know preior
+to execution and directly wirtten inot the code.
+
+age is constant in a sence that it will not change through the code execution but after a yerar
+the birth date will be change. so the year should be written in lower case.
 
