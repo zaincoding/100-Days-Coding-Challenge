@@ -1,0 +1,10 @@
+SSL vs TLS vs SSH Protocols:
+
+SSL (Secure Sockets Layer): An older cryptographic protocol designed to provide secure communication over a computer network.
+ It has been deprecated in favor of TLS due to various security vulnerabilities.
+
+TLS (Transport Layer Security): The successor to SSL, TLS provides enhanced security for data transmission over networks.
+ It ensures privacy and data integrity between communicating applications.
+
+SSH (Secure Shell): A protocol for secure remote login and other secure network services over an unsecured network.
+ It uses encryption to protect the confidentiality and integrity of data exchanged between the client and the server.

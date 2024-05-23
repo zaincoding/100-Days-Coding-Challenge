@@ -1,0 +1,8 @@
+What are web vitals?
+Web Vitals are a set of metrics introduced by Google to measure and improve user experience on the web.
+They focus on key aspects of website performance, including loading speed, interactivity, and visual stability.
+The core Web Vitals are:
+
+Largest Contentful Paint (LCP): Measures loading performance.
+First Input Delay (FID): Measures interactivity.
+Cumulative Layout Shift (CLS): Measures visual stability.

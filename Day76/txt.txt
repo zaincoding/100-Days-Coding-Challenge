@@ -1,0 +1,12 @@
+DNS & DHCP
+
+DNS
+The Domain Name System (DNS) is a system that translates human-readable domain names (like www.example.com) into numerical IP addresses (like 192.168.1.1),
+ enabling browsers to locate and access websites on the internet. 
+It acts like a phonebook for the internet, simplifying navigation and connectivity for users.
+
+DHCP
+
+DHCP (Dynamic Host Configuration Protocol) is a network management protocol used to automate the process of configuring devices on IP networks.
+ It allows devices to automatically receive an IP address and other network configuration parameters, such as the default gateway and DNS server, 
+enabling them to communicate on the network without manual setup.
