@@ -1,0 +1,26 @@
+<html>
+    <body>
+        <div id="app"></div>
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<!-- Babel script -->
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<!-- jsx Script -->
+<script type="text/jsx">
+    const app = document.getElementById("app")
+
+    function Header() {
+      return <h1>Hello World!</h1>;
+    }
+     
+    const root = ReactDOM.createRoot(app);
+    // Capitalize the React Component
+    root.render(<Header />);
+
+  </script>
+
+
+</script>
+    </body>
+</html>

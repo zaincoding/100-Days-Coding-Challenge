@@ -1,0 +1,37 @@
+
+<html>
+    <body>
+        <div id="app"></div>
+<script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<!-- Babel script -->
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<!-- jsx Script -->
+<script type="text/jsx">
+    const app = document.getElementById("app")
+
+    function Header(props) {
+        return<h1>{props.title}</h1>;
+      }
+       
+      function HomePage() {
+        return (
+          <div>
+            <Header title="React" />
+            <Header title = "Hello World!"/>
+          </div>
+        );
+      }
+     
+    const root = ReactDOM.createRoot(app);
+    // Capitalize the React Component
+    root.render(<HomePage />);
+
+
+  </script>
+
+
+</script>
+    </body>
+</html>
