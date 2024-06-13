@@ -1,4 +1,4 @@
-Setting Up Your Database
+Setting Up Your Database:
 https://nextjs.org/learn/dashboard-app/setting-up-your-database
 
 GitHub:
