@@ -1,28 +1,30 @@
-function AlienColor(colors) {
-    var Alien_color = ['Red', 'Green', 'Yellow'];
-    return Alien_color.includes(colors);
+var alienColor = "Green";
+if (alienColor === 'Green') {
+    console.log("The Player 5 point.");
 }
-if (AlienColor('Green')) {
-    console.log("The player earned 5 points");
-}
-else {
-    console.log("The player earned 10 points.");
-}
-if (!AlienColor('Green')) {
-    console.log("The player earned 5 points.");
-}
-else if (AlienColor('Yellow')) {
-    console.log("The player earned 15 points.");
+else if ('Yellow') {
+    console.log('The player earn 10 points');
 }
 else {
-    console.log("The player earned 10 points.");
+    console.log('The player earn 15 points.');
 }
-if (!AlienColor('Green')) {
-    console.log("The player earned 5 points.");
+alienColor = 'Yellow';
+if (alienColor === 'Green') {
+    console.log("The Player 5 point.");
 }
-else if (!AlienColor('Yellow')) {
-    console.log("The player earned 15 points.");
+else if ('Yellow') {
+    console.log('The player earn 10 points');
 }
 else {
-    console.log("The player earned 10 points");
+    console.log('The player earn 15 points.');
+}
+alienColor = 'Read';
+if (alienColor === 'Green') {
+    console.log("The Player 5 point.");
+}
+else if (alienColor === 'Yellow') {
+    console.log('The player earn 10 points....');
+}
+else {
+    console.log('The player earn 15 points.');
 }
