@@ -1,38 +1,30 @@
-//Exercise 27: 
+     let alienColor = "Green"
+     if(alienColor === 'Green'){
+            console.log(`The Player 5 point.`)
+     }
+     else if('Yellow'){
+           console.log('The player earn 10 points')
+ }else{
+    console.log('The player earn 15 points.')
+ }
 
-// Define a function to check if the provided color matches the color of an alien
-function AlienColor(colors){
-const Alien_color:string[] = ['Red','Green','Yellow'];
- return Alien_color.includes(colors)
+ alienColor = 'Yellow';
+
+ if(alienColor === 'Green'){
+    console.log(`The Player 5 point.`)
 }
-
-// Condition to check if the alien color is green
-if(AlienColor('Green')){
-  console.log("The player earned 5 points")
+else if('Yellow'){
+   console.log('The player earn 10 points')
 }else{
-    console.log("The player earned 10 points.")
-}
+console.log('The player earn 15 points.')
 
-// Conditions to determine points based on alien color
-if(!AlienColor('Green')){
-    console.log("The player earned 5 points.")
-}else if(AlienColor('Yellow')){
-    console.log("The player earned 15 points.")
+}
+alienColor = 'Read'
+if(alienColor === 'Green'){
+    console.log(`The Player 5 point.`)
+}
+else if(alienColor === 'Yellow'){
+   console.log('The player earn 10 points....')
 }else{
-    console.log("The player earned 10 points.")
+console.log('The player earn 15 points.')
 }
-
-// Another set of conditions to determine points based on alien color
-if(!AlienColor('Green')){
-  console.log("The player earned 5 points.")
-}else if(!AlienColor('Yellow')){
-    console.log("The player earned 15 points.")
-}else{
-    console.log("The player earned 10 points")
-}
-
-
-
-
-
-
